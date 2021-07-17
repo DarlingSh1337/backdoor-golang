@@ -10,7 +10,7 @@ sudo  linux-user jsonfile/user.json
 # Output
 
 ```
-sudo ~/go/bin/linux-user ~/go/src/github.com/andrewpgit/linux-user/jsonfile/user.json
+sudo ~/go/bin/backdoor-golang ~/go/src/github.com/DarlingSh1337/backdoor-golang/blob/main/jsonfile/user.json
 The user already exists:> Mike
 The user already exists:> Yurii
 Output: 
