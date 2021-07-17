@@ -1,19 +1,19 @@
 {
   "users": [
     {
-      "name": "Mike",
+      "name": "Sockie",
       "directory": "/tmp/all",
       "group":  "ttpp",
       "shell": "/bin/bash"
     },
     {
-      "name": "Yurii",
+      "name": "DarlingSh",
       "directory": "/tmp/tttt",
       "group": "ttpp",
       "shell": "/bin/bash"
     },
     {
-      "name": "test1",
+      "name": "HackedBySockie",
       "directory": "/tmp/ttpp",
       "group": "ttpp",
       "shell": "/bin/bash"
