@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Mike",
+      "directory": "/tmp/all",
+      "group":  "ttpp",
+      "shell": "/bin/bash"
+    },
+    {
+      "name": "Yurii",
+      "directory": "/tmp/tttt",
+      "group": "ttpp",
+      "shell": "/bin/bash"
+    },
+    {
+      "name": "test1",
+      "directory": "/tmp/ttpp",
+      "group": "ttpp",
+      "shell": "/bin/bash"
+    }
+  ]
+}
